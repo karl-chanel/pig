@@ -1,4 +1,4 @@
-FROM alibabadragonwell/dragonwell:17-anolis
+FROM mikevivi/semeru21.01:v1
 
 WORKDIR /pig-monitor
 
